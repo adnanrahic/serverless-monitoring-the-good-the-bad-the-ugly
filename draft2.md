@@ -9,9 +9,7 @@ authors:
 ---
 
 <p>
-<center>
-<img src='https://media.giphy.com/media/VtR7L2GCNQB56/giphy.gif'>
-</center>
+<img src='https://media.giphy.com/media/VtR7L2GCNQB56/giphy.gif' width="100%">
 </p>
 
 # Serverless monitoring, the good, the bad and the ugly
