@@ -127,7 +127,11 @@ However, I'm much more impressed with Dashbird. I can finally see what's going o
 
 ![dashbird dashboard](https://github.com/adnanrahic/cdn/raw/master/serverless-good-bad-ugly/dahbird-dashboard.png)
 
-Errors are highlighted, and I can see the overall health of my system. I feel great all of a sudden. It also tracks the cost so I don't blow the budget. Even function tailing in real-time is included. Now that's just cool. With this watching my back I'd be comfortable with using Serverless for any large scale application. The world relief comes to mind.
+Errors are highlighted, and I can see the overall health of my system. I feel great all of a sudden. It also tracks the cost so I don't blow the budget. Even function tailing in real-time is included. Now that's just cool. 
+
+![dashbird per function errors](https://github.com/adnanrahic/cdn/raw/master/serverless-good-bad-ugly/dashbird-per-function-errors.png)
+
+With this watching my back I'd be comfortable with using Serverless for any large scale application. The world relief comes to mind.
 
 ## Final thoughts
 Whoa... This has been an emotional roller-coaster. Starting out as a sceptic about the ability to monitor and track large scale Serverless apps, I've turned into a believer. It all boils down to the developer mindset. It takes a while to switch from the mental image of a server to FaaS. With much reason indeed. Serverless is an incredible piece of technology, and I can only see a bright future if we keep pushing the boarders with awesome tools like Serverless Offline, Dashbird, CloudWatch, and many others.
