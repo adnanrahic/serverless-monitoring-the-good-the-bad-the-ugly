@@ -82,7 +82,7 @@ What if I didn't need to push code to AWS every time I wanted to test something?
 
 Setting it up is surprisingly easy. Installing one npm module and adding a few lines to the serverless service's **serverless.yml** and voila, API Gateway emulated locally to run Lambda functions.
 
-Switching to the directory where I created the sample function and service I just ran this in a terminal:
+Switching to the directory where I created the sample function and service, I just ran the following command in a terminal:
 ```bash
 npm install serverless-offline --save-dev
 ```
@@ -111,7 +111,7 @@ serverless offline start
 That's it, a local development simulation of API Gateway and Lambda is up and running!
 
 ## The logs are still bad though...
-I still can't get over the fact how bland the logs are. Not to mention the lack of error reporting. I took me good while to find failing functions in the logs. Imagine the nightmare of tracking them in a large scale production application. This issue is what bothers me to most. The lack of overview. It's like swimming in the dark. I don't have the slightest clue what's down there.
+I still can't get over the fact how bland the logs are. Not to mention the lack of error reporting. I took me a good while to find failing functions in the logs. Imagine the nightmare of tracking them in a large scale production application. This issue is what bothers me to most. The lack of overview. It's like swimming in the dark. I don't have the slightest clue what's down there.
 
 What did I do? I went hunting. There has to be something out there on the web that can help me out. I was looking for a way to simulate the monitoring and logging of a server. I thought maybe there's a way to create a broader perspective over the whole serverless system. What I found blew me away, in a good way. A bunch of tools exist that parse and analyse logs from all functions in a system on the account level. Now that's cool.
 
