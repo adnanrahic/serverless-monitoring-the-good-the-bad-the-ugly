@@ -25,7 +25,7 @@ How to define what monitoring is for the average developer?
 
 > Application Performance Management (APM) is the monitoring and management of performance and availability of software applications.
 
-Okay, that sounds complicated. Let's break it down. All applications have metrics we as developers can monitor. Meaning we have insight in how the software we created behaves. This is crucial in creating healthy user satisfaction. Downtime and slow apps can create some pretty grumpy customers. Trust me I know. I get angry phone calls and rage mail every once in awhile.
+Okay, that sounds complicated. Let's break it down. All applications have metrics we as developers can monitor. Meaning we have insight in how the software we created behaves. This is crucial in creating healthy user satisfaction. Downtime and slow apps can create some pretty grumpy customers. Trust me, I know. I get angry phone calls and rage mail every once in a while.
 
 How to avoid getting yelled at by customers? Track your errors and monitor your software! Implement a good notification system that lets you know when and where an error occurred. Make sure to have good and easy to view logs of all errors, warnings and other crucial data your application creates. Be responsible for the software you write. Because it is our legacy as developers. We have made an oath, to be creators of awesome stuff!
 
@@ -36,7 +36,7 @@ _**Note**: I recently came across an [awesome article](https://hackernoon.com/no
 ### Overhead?
 Excuse me...? Can I have some monitoring please? But, without being a burden on my application.
 
-We're lucky in 2017 that this is a given. Monitoring software has become so advanced that in today's world of programming the overhead is minimal. The sun was not shining so bright back in the day. Monitoring applications was followed by a known fact that it would impact your apps performance significantly.
+We're lucky that, in 2017, this is a given. Monitoring software has become so advanced that in today's world of programming the overhead is minimal. The sun was not shining so bright back in the day. Monitoring applications was followed by a known fact that it would impact your apps performance significantly.
 
 ### How does this translate to Serverless?
 The Serverless revolution has been gaining strength for the past few years. I see no reason for it to stop. The hype is real. Developers are starting to view the **F**unction as a **S**ervice architecture as a savior. Making it possible to scale applications automatically serving only as many users as needed. The pay as you go method has cut costs drastically, making it possible for start ups to create awesome software for the fraction of the cost it would "normally" cost.
@@ -134,7 +134,7 @@ With this watching my back I'd be comfortable with using Serverless for any larg
 ## Final thoughts
 Whoa... This has been an emotional roller-coaster. Starting out as a sceptic about the ability to monitor and track large scale Serverless apps, I've turned into a believer. It all boils down to the developer mindset. It takes a while to switch from the mental image of a server to FaaS. With much reason indeed. Serverless is an incredible piece of technology, and I can only see a bright future if we keep pushing the borders with awesome tools like Serverless Offline, Dashbird, CloudWatch, and many others.
 
-I'd urge you to check out the tools I used above, as they have been a great help to me.
+I urge you to check out the tools I used above, as they have been of great help to me.
 
 Hope you guys and girls enjoyed reading this as much as I enjoyed writing it. Until next time, be curious and have fun.
 
