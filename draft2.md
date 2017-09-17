@@ -8,11 +8,11 @@ authors:
  - AdnanRahic
 ---
 
+<p>
 <center>
-
-![](https://media.giphy.com/media/VtR7L2GCNQB56/giphy.gif)
-
+<img src='https://media.giphy.com/media/VtR7L2GCNQB56/giphy.gif'>
 </center>
+</p>
 
 # Serverless monitoring, the good, the bad and the ugly
 
