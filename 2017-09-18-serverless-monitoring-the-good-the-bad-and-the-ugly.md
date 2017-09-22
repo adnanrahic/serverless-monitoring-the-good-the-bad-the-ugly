@@ -8,6 +8,8 @@ authors:
  - AdnanRahic
 ---
 
+<link rel="canonical" href="add this later">
+
 <p>
 <img src='https://media.giphy.com/media/VtR7L2GCNQB56/giphy.gif' width="100%">
 </p>
